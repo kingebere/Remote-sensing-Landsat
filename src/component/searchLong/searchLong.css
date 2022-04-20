@@ -1,0 +1,9 @@
+.searchLang__col {
+  width: 100%;
+  padding: 0 15px;
+}
+
+.searchLang__vcd {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
